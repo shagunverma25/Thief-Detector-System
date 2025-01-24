@@ -1,1 +1,2 @@
 # Thief-Detector-System
+This project demonstrates the implementation of thief detection or object detection using AI and integrates it into a web application built with Next.js. The thief detection model is based on deep learning and it can detect and identify objects directly from the camera feed, making it a dynamic and interactive experience. Users can observe real-time object detection while interacting with the live camera stream. The project uses the power of pre-trained models to achieve accurate and real-time object detection.
